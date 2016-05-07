@@ -1,2 +1,1 @@
-# First-Repo
-My First Practice
+isko edit kia ha
